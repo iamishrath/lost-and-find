@@ -1,0 +1,6 @@
+{
+  "name": "Lost & Found Chennai",
+  "description": "Lost Today, Found Together. A Chennai community platform helping reunite people with their lost belongings through intelligent matching, interactive maps, and secure in-app messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
